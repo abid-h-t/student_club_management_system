@@ -1,60 +1,17 @@
-# student-club-tracker
-A web-based application that allows a university to manage student clubs, members, events, and club activities.
+# Student Club Management System
+The Student Club Management System is a desktop application for running the clubs of a university or college. Staff sign in, keep the lists of students and clubs up to date,  put students into clubs, organize club events, register students for those events and record who attended.
 
-# features
-Dashboard - Overview of clubs, students, and events <br>
-Club Management - Create, edit, delete, and view clubs <br>
-Student Management - Register and manage students <br>
-Membership - Add student to clubs <br>
-Event Management - Create and manage club events <br>
-Attendance - Track event participation <br>
-Club Officers - Assign presidents, vice presidents, etc. <br>
-Reports - Generate membership and event reports. <br>
-Login System - Admin and authorized user access.
+## Features
+1. Login = Sign in with a username and password.
+2. Dashboard = See live totals (students, clubs, active clubs, active memberships, upcoming events).
+3. Clubs = Add, edit, delete and search clubs; mark a club active or inactive.
+4. Students = Add, edit, delete, and search students; see which clubs a student belongs to.
+5. memberships = Pick a club, see its members, add a student with a role, change the role or status, remove a member.
+6. Events = Create, edit and delete events for a club, register students, mark attendance.
+7. Reports = Club summary: member count, event count and upcoming events for each club.
 
-# designing the database
-## tables
-Students, Clubs, Events, FacultyAdvisors, ClubCategories, Memberships, EventAttendance, ClubOfficers
-
-# the entity relationship diagram (ERD)
-1 means "exactly one" <br>
-0..* means "zero or more" <br>
-
- ┌─────────────────┐                              ┌─────────────────┐
- │ FacultyAdvisors │                              │ ClubCategories  │
- ├─────────────────┤                              ├─────────────────┤
- │ PK AdvisorId    │                              │ PK CategoryId   │
- └────────┬────────┘                              └────────┬────────┘
-          │1                                               │1
-          │               ┌───────────────────┐            │
-          └───────────────┤       Clubs       ├────────────┘
-                     0..* ├───────────────────┤ 0..*
-                          │ PK ClubId         │
-                          │ FK CategoryId     │
-                          │ FK AdvisorId      │
-                          └───┬───────────┬───┘
-                             1│           │1
-              ┌───────────────┘           └───────────┐
-              │0..*                               0..*│
-     ┌────────┴────────┐                    ┌────────┴────────┐
-     │   Memberships   │                    │     Events      │
-     ├─────────────────┤                    ├─────────────────┤
-     │ PK MembershipId │                    │ PK EventId      │
-     │ FK StudentId    │                    │ FK ClubId       │
-     │ FK ClubId       │                    └────────┬────────┘
-     └──┬───────────┬──┘                            1│
-       1│           │0..*                            │
-    0..*│           │                            0..*│
-┌────────┴─────────┐ │                      ┌─────────┴─────────┐
-│   ClubOfficers   │ │                      │  EventAttendance  │
-├──────────────────┤ │                      ├───────────────────┤
-│ PK ClubOfficerId │ │                      │ PK AttendanceId   │
-│ FK MembershipId  │ │                      │ FK EventId        │
-└──────────────────┘ │                      │ FK StudentId      │
-                     │                      └─────────┬─────────┘
-                     │   ┌─────────────────┐          │0..*
-                     └───┤    Students     ├──────────┘
-                        1├─────────────────┤1
-                         │ PK StudentId    │
-                         └─────────────────┘
-
+## Relationships
+1. A student can belong to many clubs and a club has many students.
+2. A club organizes many events, each event belongs to one club.
+3. A student can register for many events and en events has many students.
+4. Users stands alone and is used only login.
