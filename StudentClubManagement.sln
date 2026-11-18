@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentClubManagement", "StudentClubManagement\StudentClubManagement.csproj", "{8B3F2A61-4C7D-4E9A-9F15-2D6A7C1E5B40}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E5C0D1A-7B42-4F6E-8A93-5D1C2B7E9F04}"
+	ProjectSection(SolutionItems) = preProject
+		Database\StudentClubDB.sql = Database\StudentClubDB.sql
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B3F2A61-4C7D-4E9A-9F15-2D6A7C1E5B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3F2A61-4C7D-4E9A-9F15-2D6A7C1E5B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3F2A61-4C7D-4E9A-9F15-2D6A7C1E5B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3F2A61-4C7D-4E9A-9F15-2D6A7C1E5B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D7E2B9-6C13-4F58-B0E7-9C2D5A1F8E36}
+	EndGlobalSection
+EndGlobal

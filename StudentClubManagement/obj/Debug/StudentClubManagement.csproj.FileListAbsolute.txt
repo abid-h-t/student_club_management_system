@@ -1,0 +1,20 @@
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\bin\Debug\StudentClubManagement.exe.config
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\bin\Debug\StudentClubManagement.exe
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\bin\Debug\StudentClubManagement.pdb
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.csproj.AssemblyReference.cache
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.exe
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.pdb
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\bin\Debug\StudentClubManagement.exe.config
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\bin\Debug\StudentClubManagement.exe
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\bin\Debug\StudentClubManagement.pdb
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.csproj.AssemblyReference.cache
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.Forms.EventsForm.resources
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.csproj.GenerateResource.cache
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.exe
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.pdb
+C:\Users\taluk\OneDrive\Desktop\Rapid Application Development\Project\Update_2\StudentClubManagement\obj\Debug\StudentClubManagement.Forms.LoginForm.resources
+C:\Users\taluk\AppData\Local\Temp\claude\d4fa4a1f9a9d2714\d5be7cc2-4f59-4c68-ab76-70704fb59466\scratchpad\build\StudentClubManagement.exe.config
+C:\Users\taluk\AppData\Local\Temp\claude\d4fa4a1f9a9d2714\d5be7cc2-4f59-4c68-ab76-70704fb59466\scratchpad\build\StudentClubManagement.exe
+C:\Users\taluk\AppData\Local\Temp\claude\d4fa4a1f9a9d2714\d5be7cc2-4f59-4c68-ab76-70704fb59466\scratchpad\build\StudentClubManagement.pdb

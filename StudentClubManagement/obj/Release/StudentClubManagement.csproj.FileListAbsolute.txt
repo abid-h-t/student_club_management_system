@@ -1,0 +1,7 @@
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\bin\Release\StudentClubManagement.exe.config
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\bin\Release\StudentClubManagement.exe
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\bin\Release\StudentClubManagement.pdb
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Release\StudentClubManagement.csproj.AssemblyReference.cache
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Release\StudentClubManagement.csproj.CoreCompileInputs.cache
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Release\StudentClubManagement.exe
+C:\Users\taluk\OneDrive\Desktop\Network Programming & Security\Project\Update_2\StudentClubManagement\obj\Release\StudentClubManagement.pdb
